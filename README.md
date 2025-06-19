@@ -16,3 +16,4 @@ This C program is a simple implementation of **Run-Length Encoding (RLE)** that 
 
 OUTPUT : 
 
+![Image](https://github.com/user-attachments/assets/12322499-2b11-4ab9-90a5-898863b74b67)
